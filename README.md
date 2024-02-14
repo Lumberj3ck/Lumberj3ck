@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A passionate software developer from Kazakhstan</h3>
+<h3 align="center">A software developer from Kazakhstan</h3>
 
 ### My github guideline:
 1. [Cinema Library](https://github.com/Lumberj3ck/Cinema)
