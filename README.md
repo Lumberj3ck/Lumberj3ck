@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 
 ### My github guideline:
-1. [Valentiny](https://github.com/Lumberj3ck/valentiny)
-2. [Manga Reader](https://github.com/Lumberj3ck/manga_reader)
-3. [Cinema Library](https://github.com/Lumberj3ck/Cinema)
+1. [Manga Reader](https://github.com/Lumberj3ck/manga_reader)
+2. [Cinema Library](https://github.com/Lumberj3ck/Cinema)
 
 
 
